@@ -1,0 +1,11 @@
+.hello {
+    color: red;
+}
+img {
+    display: block;
+    width: 100px;
+}
+button {
+    display: block;
+    margin: 10px 0;
+}
