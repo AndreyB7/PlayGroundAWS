@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import './style.css';
 
 ReactDOM.render(
-  React.createElement('div', null, `Hello React World`),
+  <h1>Hello, world!</h1>,
   document.getElementById('app')
-)
+);
