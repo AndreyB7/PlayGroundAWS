@@ -9,7 +9,7 @@ const compiler = webpack(config);
 
 const app = express();
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 // Tell express to use the webpack-dev-middleware and use the webpack.config.js
 // configuration file as a base.
